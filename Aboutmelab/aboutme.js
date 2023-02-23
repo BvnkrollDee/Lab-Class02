@@ -1,6 +1,7 @@
 function Question() {
     let array = ["how old am I?", "how much college did I complete?", "What am I working on becoming?", "What are two of my hobbies?", "what is one of the retail jobs I worked?"]
     console.log(array.length);
+    
 
 let usersAge = prompt(array[0])
 if(usersAge === "22"){ 

@@ -47,3 +47,5 @@ else{
     // long as index is less than array . length it will continue to iterate through my array
 } 
 // Question();
+
+//add comments inline to explain what your code is doing. For example if a function is craring a new html element then make a comment that says that.
